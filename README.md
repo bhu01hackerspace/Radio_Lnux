@@ -38,17 +38,24 @@ sudo pacman -S mpv
 
 ## 🚀 Instalação
 
-```
+
 # Clone o repositório
+```
 git clone https://github.com/bhu01hackerspace/Radio_Lnux.git
+```
 
 # Entre no diretório
+```
 cd Radio_Lnux
+```
 
 # Dê permissão de execução
+```
 chmod +x main.sh
+```
 
 # Execute
+```
 ./main.sh
 ```
 
